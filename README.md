@@ -1,5 +1,7 @@
 # Exercitii_Java
 
+RO/EN
+
 Diferite exercitii realizate in Java / Different exercises performed in JAVA.
 
 Pornind de la exercitii simple spre unele moderate / Starting from simple exercises to moderate type.
